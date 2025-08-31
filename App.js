@@ -6,7 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <Text style={styles.title}> Quick Buy</Text>
       <Image style ={styles.Image} source={require('./assets/backgrdlogin.jpg')}  />
-      <Text style={styles.description}> Best Platform for your used cheap items</Text>
+      <Text style={styles.description}> Best Platform for your used cheap items2</Text>
       <StatusBar style="auto" />
     </View>
   );
